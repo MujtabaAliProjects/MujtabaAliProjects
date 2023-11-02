@@ -6,7 +6,7 @@ Currently interested in software engineering internship oppurutinities.
 
 Expected Graduation: June 2026
 
-In my github account, I've uploaded some projects that I've worked on in the following languages:
+In my github account, I'll be uploading some projects that I've worked on in the following languages:
 
   Python,
   C++,
